@@ -30,11 +30,15 @@ An intelligent, real-time AI chatbot built with Gradio + OpenAI GPT, integrated 
 
 1. Download [Jupyter](https://jupyter.org/install)
 
-2. Write the following commands if not installed:
-`!pip install gradio openai requests beautifulsoup4 python-dotenv`
+2. Clone the repository or download the ipynb file 
 
 3. Open Jupyuter lab with the following command:
 `!jupyter lab`
 
-4. Then open the Gradio interface and start chatting! 🚀
+4. Open the ipynb file in Jupyter lab
+   
+5. Write the following commands if not installed:
+`!pip install gradio openai requests beautifulsoup4 python-dotenv`
+
+6. Then open the Gradio interface and start chatting! 🚀
 
